@@ -1,0 +1,15 @@
+Users and passwords
+Username: qwerty
+Password: qwerty123
+
+Username: Charte
+Password: char456
+
+Username: Sam
+Password: sam456
+
+Username: Bobson
+Password: bob789
+
+Username: Parmello
+Password: parry789
